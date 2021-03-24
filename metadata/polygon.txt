@@ -1,0 +1,2 @@
+TransferProxy deployed to: 0xda3b7Ed62f706FD90f4c156bE22A198c74dd4427
+Dex contract deployed to: 0x1058BD0a03Dc649FDa2d747a48982d7A334335B0
